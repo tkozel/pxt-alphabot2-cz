@@ -12,9 +12,9 @@
 	"AlphaBot2.RunDelay|block": "%index|rychlost %speed|za %time|s",
 	"AlphaBot2.Ultrasonic|block": "Ulrazvuk",
 	"AlphaBot2.SensorCalibrated|block": "Senzor kalibrován",
-	"AlphaBot2.readLine|block": "Sledovat čáru",
-	"AlphaBot2.AnalogRead|block": "Analogové čtení",
+	"AlphaBot2.readLine|block": "Pozice čáry",
+	"AlphaBot2.AnalogRead|block": "Číst analog.",
 	"AlphaBot2.readCalibrated|block": "Číst kalibr.",
-	"AlphaBot2.ReadSensorMax|block": "Číst senzor max.",
-	"AlphaBot2.ReadSensorMin|block": "Číst senzor min."
+	"AlphaBot2.ReadSensorMax|block": "Senzor max.",
+	"AlphaBot2.ReadSensorMin|block": "Senzor min."
 }
