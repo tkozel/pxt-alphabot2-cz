@@ -1,0 +1,20 @@
+{
+	"Dir.forward|block": "vpřed",
+	"Dir.backward|block": "zpět",
+	"Dir.turnRight|block": "vpravo",
+	"Dir.turnLeft|block": "vlevo",
+	"Dir.stop|block": "zastavit",
+	"Sensor.Left|block": "Senzor vlevo",
+	"Sensor.Right|block": "Senzor vpravo",
+	"AlphaBot2.Infrared|block": "Infrap |%index",
+	"AlphaBot2.MotorRun|block": "Motor|%index|Rychlost %speed",
+	"AlphaBot2.Run|block": "%index|rychlost %speed",
+	"AlphaBot2.RunDelay|block": "%index|rychlost %speed|za %time|sec",
+	"AlphaBot2.Ultrasonic|block": "Ulrazvuk",
+	"AlphaBot2.SensorCalibrated|block": "Senzor kalibrován",
+	"AlphaBot2.readLine|block": "获取线位置",
+	"AlphaBot2.AnalogRead|block": "循迹数值",
+	"AlphaBot2.readCalibrated|block": "循迹校准数值",
+	"AlphaBot2.ReadSensorMax|block": "循迹最大值",
+	"AlphaBot2.ReadSensorMin|block": "循迹最小值"
+}
