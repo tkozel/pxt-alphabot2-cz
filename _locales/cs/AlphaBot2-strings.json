@@ -11,7 +11,7 @@
 	"AlphaBot2.Run|block": "%index|rychlost %speed",
 	"AlphaBot2.RunDelay|block": "%index|rychlost %speed|za %time|s",
 	"AlphaBot2.Ultrasonic|block": "Ulrazvuk",
-	"AlphaBot2.SensorCalibrated|block": "Senzor kalibrován",
+	"AlphaBot2.SensorCalibrated|block": "Kalibrace senzoru",
 	"AlphaBot2.readLine|block": "Pozice čáry",
 	"AlphaBot2.AnalogRead|block": "Číst analog.",
 	"AlphaBot2.readCalibrated|block": "Číst kalibr.",
