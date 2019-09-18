@@ -6,15 +6,15 @@
 	"Dir.stop|block": "zastavit",
 	"Sensor.Left|block": "Senzor vlevo",
 	"Sensor.Right|block": "Senzor vpravo",
-	"AlphaBot2.Infrared|block": "Infrap |%index",
-	"AlphaBot2.MotorRun|block": "Motor|%index|Rychlost %speed",
+	"AlphaBot2.Infrared|block": "Infra |%index",
+	"AlphaBot2.MotorRun|block": "Motor|%index|rychlost %speed",
 	"AlphaBot2.Run|block": "%index|rychlost %speed",
-	"AlphaBot2.RunDelay|block": "%index|rychlost %speed|za %time|sec",
+	"AlphaBot2.RunDelay|block": "%index|rychlost %speed|za %time|s",
 	"AlphaBot2.Ultrasonic|block": "Ulrazvuk",
 	"AlphaBot2.SensorCalibrated|block": "Senzor kalibrován",
-	"AlphaBot2.readLine|block": "获取线位置",
-	"AlphaBot2.AnalogRead|block": "循迹数值",
-	"AlphaBot2.readCalibrated|block": "循迹校准数值",
-	"AlphaBot2.ReadSensorMax|block": "循迹最大值",
-	"AlphaBot2.ReadSensorMin|block": "循迹最小值"
+	"AlphaBot2.readLine|block": "Sledovat čáru",
+	"AlphaBot2.AnalogRead|block": "Analogové čtení",
+	"AlphaBot2.readCalibrated|block": "Číst kalibr.",
+	"AlphaBot2.ReadSensorMax|block": "Číst senzor max.",
+	"AlphaBot2.ReadSensorMin|block": "Číst senzor min."
 }
