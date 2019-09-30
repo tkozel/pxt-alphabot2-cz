@@ -9,7 +9,7 @@
 	"AlphaBot2.Infrared|block": "Infra |%index",
 	"AlphaBot2.MotorRun|block": "Motor|%index|rychlost %speed",
 	"AlphaBot2.Run|block": "%index|rychlost %speed",
-	"AlphaBot2.RunDelay|block": "%index|rychlost %speed|za %time|s",
+	"AlphaBot2.RunDelay|block": "%index|rychlost %speed|na %time|s",
 	"AlphaBot2.Ultrasonic|block": "Ulrazvuk",
 	"AlphaBot2.SensorCalibrated|block": "Kalibrace senzoru",
 	"AlphaBot2.readLine|block": "Pozice čáry",
